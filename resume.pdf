@@ -1,0 +1,7 @@
+<a
+  href="/resume.pdf"
+  download="Your_Name_Resume.pdf"
+  className="px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition"
+>
+  Download Resume
+</a>
